@@ -9,9 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.1",
     "react": "^18.2.0",
+    "react-css-loaders": "^0.0.6",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
+    "react-spinners-kit": "^1.9.1",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
